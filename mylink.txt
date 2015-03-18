@@ -1,3 +1,4 @@
 http://weblogs.asp.net/hajan/debugging-asp-net-web-services
 http://www.aspdotnet-suresh.com/2013/12/jquery-ajax-json-example-in-aspnet.html
 http://encosia.com/using-jquery-to-directly-call-aspnet-ajax-page-methods/
+jquery ajax with aspx
